@@ -1,0 +1,10 @@
+D:\VSProjects\CompGraphics\CompGraphics_Lab8\CompGraphics_Lab8\bin\Debug\CompGraphics_Lab8.exe
+D:\VSProjects\CompGraphics\CompGraphics_Lab8\CompGraphics_Lab8\bin\Debug\CompGraphics_Lab8.pdb
+D:\VSProjects\CompGraphics\CompGraphics_Lab8\CompGraphics_Lab8\obj\Debug\CompGraphics_Lab8.csprojAssemblyReference.cache
+D:\VSProjects\CompGraphics\CompGraphics_Lab8\CompGraphics_Lab8\obj\Debug\CompGraphics_Lab8.Form1.resources
+D:\VSProjects\CompGraphics\CompGraphics_Lab8\CompGraphics_Lab8\obj\Debug\CompGraphics_Lab8.Properties.Resources.resources
+D:\VSProjects\CompGraphics\CompGraphics_Lab8\CompGraphics_Lab8\obj\Debug\CompGraphics_Lab8.csproj.GenerateResource.cache
+D:\VSProjects\CompGraphics\CompGraphics_Lab8\CompGraphics_Lab8\obj\Debug\CompGraphics_Lab8.csproj.CoreCompileInputs.cache
+D:\VSProjects\CompGraphics\CompGraphics_Lab8\CompGraphics_Lab8\obj\Debug\CompGraphics_Lab8.exe
+D:\VSProjects\CompGraphics\CompGraphics_Lab8\CompGraphics_Lab8\obj\Debug\CompGraphics_Lab8.pdb
+D:\VSProjects\CompGraphics\CompGraphics_Lab8\CompGraphics_Lab8\bin\Debug\CompGraphics_Lab8.exe.config
